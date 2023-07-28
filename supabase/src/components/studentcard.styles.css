@@ -1,0 +1,57 @@
+
+
+.student-card {
+    width: 18rem;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .student-card h5 {
+    margin: 0;
+  }
+  
+  .student-card p {
+    margin: 10px 0;
+  }
+  
+  .student-card button {
+    padding: 5px 10px;
+    margin-right: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .student-card button.edit-button {
+    background-color: #777;
+  }
+  
+  .student-card input {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .student-card .go-back-button {
+    margin-top: 10px;
+  }
+  
+  .student-card .edit-form {
+    margin-top: 10px;
+    background-color: #007bff;
+  }
+  
+  .student-card .edit-form button {
+    margin-top: 5px;
+  }
+  
+  .student-card .delete-button {
+    background-color: #dc3545;
+  }
+  
+  .student-card .update-button {
+    background-color: #007bff;
+  }
+  
