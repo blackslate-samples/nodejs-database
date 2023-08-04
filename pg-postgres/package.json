@@ -1,0 +1,11 @@
+{
+    "name": "pg-postgress-app",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+       "pg" : "8.11.1",
+       "pg-cursor": "^2.10.2"
+    }
+  }
+  
